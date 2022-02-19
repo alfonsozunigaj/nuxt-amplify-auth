@@ -17,8 +17,11 @@
     "*.{css,vue}": "stylelint"
   },
   "dependencies": {
+    "@aws-amplify/ui-components": "^1.9.6",
+    "aws-amplify": "^4.3.14",
     "core-js": "^3.15.1",
-    "nuxt": "^2.15.7"
+    "nuxt": "^2.15.7",
+    "nuxt-property-decorator": "^2.9.1"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.14.7",
