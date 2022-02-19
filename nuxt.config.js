@@ -51,6 +51,6 @@ export default {
   },
 
   router: {
-    middleware: ['auth']
+    middleware: ['auth', 'amplify']
   }
 }
