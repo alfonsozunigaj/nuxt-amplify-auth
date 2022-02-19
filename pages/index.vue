@@ -1,6 +1,7 @@
 <template>
   <div>
     <h1>Home</h1>
+    <amplify-sign-out></amplify-sign-out>
   </div>
 </template>
 

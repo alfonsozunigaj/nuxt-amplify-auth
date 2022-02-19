@@ -1,6 +1,9 @@
 <template>
   <div>
     <h1>Login</h1>
+    <amplify-auth-container>
+      <amplify-authenticator></amplify-authenticator>
+    </amplify-auth-container>
   </div>
 </template>
 
