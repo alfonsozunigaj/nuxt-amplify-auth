@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Home</h1>
+    <h1>Login</h1>
   </div>
 </template>
 
@@ -8,5 +8,5 @@
 import { Vue, Component } from 'nuxt-property-decorator';
 
 @Component
-export default class Home extends Vue {}
+export default class Login extends Vue {}
 </script>
